@@ -8,7 +8,7 @@ After publish on Ethereum Ropsten testnet, you can add the JenYuanToken(JYH) to 
 
 ![Transfer Token](https://i.imgur.com/K9eP9fX.png)
 
-You can also view JenYuanToken for details on [Etherscan](https://ropsten.etherscan.io/token/0xfc0a76686e886ebdf62a4909658b2103ddd6e609).
+You can also view JenYuanToken on [Etherscan](https://ropsten.etherscan.io/token/0xfc0a76686e886ebdf62a4909658b2103ddd6e609).
 
 
 ![JenYuanToken](https://i.imgur.com/IGiigsD.png)
